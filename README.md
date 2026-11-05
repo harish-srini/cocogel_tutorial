@@ -12,6 +12,8 @@ No Python experience is needed. Every command is explained in the notebook where
 | `01_BSA_size_DLS.ipynb` | about 50 min | Core. Size of the protein BSA from DLS, and why SAXS gives a different radius. | [Open](https://colab.research.google.com/github/harish-srini/cocogel_tutorial/blob/main/01_BSA_size_DLS.ipynb) |
 | `02_gold_polydispersity_DLS.ipynb` | about 30 min | Core. Gold nanoparticles: what a spread of sizes does to DLS. | [Open](https://colab.research.google.com/github/harish-srini/cocogel_tutorial/blob/main/02_gold_polydispersity_DLS.ipynb) |
 | `03_ferritin_crowding_XPCS.ipynb` | optional | For those who finish early. Crowded ferritin in XPCS, and the dip in D(q). | [Open](https://colab.research.google.com/github/harish-srini/cocogel_tutorial/blob/main/03_ferritin_crowding_XPCS.ipynb) |
+| `04_dust_aggregates_DLS.ipynb` | extra, about 15 min | How little dust it takes to ruin a protein size, and how to notice. | [Open](https://colab.research.google.com/github/harish-srini/cocogel_tutorial/blob/main/04_dust_aggregates_DLS.ipynb) |
+| `05_speckle_contrast.ipynb` | extra, about 15 min | What the contrast β is, and why it doesn't change the rate. | [Open](https://colab.research.google.com/github/harish-srini/cocogel_tutorial/blob/main/05_speckle_contrast.ipynb) |
 
 ## Two ways to run them
 
@@ -157,6 +159,8 @@ README.md                         this file
 01_BSA_size_DLS.ipynb             core
 02_gold_polydispersity_DLS.ipynb  core
 03_ferritin_crowding_XPCS.ipynb   optional
+04_dust_aggregates_DLS.ipynb      extra
+05_speckle_contrast.ipynb         extra
 data/bsa_dls.csv                  BSA, nine angles
 data/gold_nanoparticles_dls.csv   gold nanoparticles, nine angles
 data/ferritin_xpcs_70mgml.csv     ferritin, 70 mg/ml, five q values
